@@ -1,0 +1,5 @@
+Instructions:
+  Action1 (see next page) to shoot.
+  Action2 (see next page) to use up charge.
+  Shoot comets to get a higher score.
+  Don't let the comets hit you.

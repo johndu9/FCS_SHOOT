@@ -1,0 +1,32 @@
+tip0:Don't let too many comets accumulate.
+tip1:Keep shooting.
+tip2:Always have an escape plan.
+tip3:Some skins can provide better performance.
+tip4:You can find skins in the \res\skn folder.
+tip5:Edit player controls in controls.txt.
+tip6:Cheating is bad m'kay.
+tip7:Pressing enter here starts a new game.
+tip8:Pressing backspace here goes to main menu.
+tip9:Debugview (F3) gives neat info.
+tip10:Toggling text (F5) can improve performance.
+tip11:ESCAPE pauses the game.
+tip12:Toggle fullscreen (F11) for an easy time.
+tip13:Comets are evil.
+tip14:Comets, man. They're, like, whoa, you know?
+tip15:GLORIOUS LEADER loves winners.
+tip16:GLORIOUS LEADER once killed a million comets.
+tip17:GLORIOUS LEADER hates losing.
+tip18:SPACECRAFTIA wishes you luck.
+tip19:There is no win like a win for SPACECRAFTIA.
+tip20:Fight for the glory of SPACECRAFTIA.
+tip21:More dead comets, more skill.
+tip22:Never give up. Never surrender.
+tip23:Stay away from the screen edges.
+tip24:There are 4 types of comets; kill them all.
+tip25:After difficulty 1, faster comets spawn.
+tip26:After difficulty 2, hunter comets appear.
+tip27:After difficulty 4, seeker comets appear.
+tip28:Toggling trails (F7) can improve performance.
+tip29:Try not to use up charge too quickly.
+tip30:Contact desukase at desukase@gmail.com.
+tip31:Tell your friends about FCS_SHOOT!

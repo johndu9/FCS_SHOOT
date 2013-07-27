@@ -1,0 +1,49 @@
+//:PLAYER 1 CONTROLS
+craft0type:STANDARD
+craft0up:W
+craft0left:A
+craft0down:S
+craft0right:D
+craft0action1:BUTTON0
+craft0action2:BUTTON1
+//:PLAYER 2 CONTROLS
+craft1type:TANK
+craft1up:UP
+craft1left:LEFT
+craft1down:DOWN
+craft1right:RIGHT
+craft1action1:SPACE
+craft1action2:RCONTROL
+//:PLAYER 3 CONTROLS
+craft2type:TANK
+craft2up:Y
+craft2left:G
+craft2down:H
+craft2right:J
+craft2action1:T
+craft2action2:U
+//:PLAYER 4 CONTROLS
+craft3type:TANK
+craft3up:O
+craft3left:K
+craft3down:L
+craft3right:SEMICOLON
+craft3action1:I
+craft3action2:P
+//:GAME CONTROLS
+noSpawnKey:F1
+invincibleKey:F2
+diffUpKey:RBRACKET
+diffDownKey:LBRACKET
+debugKey:F3
+frameCapKey:F4
+showTextKey:F5
+showNumberKey:F6
+showTrailKey:F7
+fullscreenKey:F11
+pausedKey:ESCAPE
+quickYesKey:RETURN
+quickNoKey:BACK
+volUpKey:EQUALS
+volDownKey:MINUS
+muteKey:0

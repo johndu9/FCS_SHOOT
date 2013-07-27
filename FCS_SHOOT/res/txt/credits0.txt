@@ -1,0 +1,11 @@
+Thanks to the following:
+  LWJGL:
+    Your library!
+  Tom Vian:
+    Your sounds (AS3SFXR)!
+  Cicidian:
+    Your help with website and licensing! 
+  Internet:
+    Your help with everything!
+  You:
+    Your time!

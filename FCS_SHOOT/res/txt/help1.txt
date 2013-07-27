@@ -1,0 +1,6 @@
+Player Controls (CHANGEABLE IN CONTROLS.TXT):
+  Player  Movement Keys       Action1/Action2
+  1       W/A/S/D             LMB/RMB
+  2       Up/Down/Left/Right  Space/RCTRL
+  3       Y/G/H/J             T/U
+  4       O/K/L/Semicolon     I/P

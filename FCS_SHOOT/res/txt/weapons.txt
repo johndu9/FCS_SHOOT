@@ -1,0 +1,9 @@
+weapon0:Range, 2 lasers per 0.2 sec
+weapon1:Range, 1 laser per 0.075 sec
+weapon2:Range, 2 laser per 0.15 sec
+weapon3:Range, 1 laser per 0.15 sec
+weapon4:Range, 20 lasers per 0.4 sec
+weapon5:Range, 4 lasers per 0.55 sec
+weapon6:Mixed, 1 laser per 0.2 sec
+weapon7:Close, 8 lasers per 0.2 sec
+weapon8:Close, 36 lasers per 0.5 sec

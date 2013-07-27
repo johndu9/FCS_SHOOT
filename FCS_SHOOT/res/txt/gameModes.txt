@@ -1,0 +1,3 @@
+gameMode0:New COMETS at higher difficulties
+gameMode1:Normal COMETS throughout
+gameMode2:Player vs. Player action

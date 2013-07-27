@@ -1,0 +1,14 @@
+Game Controls (CHANGEABLE IN CONTROLS.TXT):
+  0 to mute sound.
+  - to lower volume.
+  = to increase volume.
+  Enter at score screen to play again.
+  Backspace at score screen to go to main menu.
+  Esc to quit the game.
+  F3 to toggle debug mode.
+  F4 to toggle frame cap.
+  F5 to toggle text.
+  F6 to toggle player number.
+  F7 to toggle trails.
+  F10 to toggle pause.
+  F11 to toggle fullscreen.

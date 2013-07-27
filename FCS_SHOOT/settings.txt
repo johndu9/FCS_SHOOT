@@ -1,0 +1,16 @@
+//:Settings file!
+//:Removing settings will result in breaking everything.
+masterVolume:70
+frameCap:80
+gameSpeed:1.00
+shakeIntensity:8
+maxShake:40
+showShake:true
+showTrail:true
+showNumber:false
+showCursor:true
+skin:default
+levelSeed:1984
+useSeed:false
+refreshSeed:false
+backgroundRun:false

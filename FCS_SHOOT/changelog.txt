@@ -1,0 +1,267 @@
+1_001G (2012/09/30):THE ACTUALLY FINISHED UPDATE
+	(add) Settings that will change seed and how seed is used
+	(add) Game options in options
+	(add) Option to not pause game when window is not focused
+	(add) Max shake (in pixels) setting
+	(add) Difficulty can be changed in-game for debug
+	(mod) Credits
+	(mod) Tips
+	(mod) License changed from WTFPL to CC BY-NC-SA 3.0
+	(mod) Default pause changed from F10 to ESCAPE
+	(rem) ESCAPE closing game
+
+1_000G (2012/09/30):THE FINISHED UPDATE
+	(add) Option to place player numbers above player
+	(add) Action2 on CROSS toggles shooting direction
+	(add) showShake, showTrail, showNumber settings save after close
+	(add) CLOCK weapon
+	(mod) "Ghosts" last slightly longer
+	(mod) "Ghosts" don't disappear instantly without frame cap
+	(mod) Stars move after returning to main menu from paused game
+	(mod) Explosions cleared when returning to main menu from game
+	(mod) TURRET shoot speed increased to 0.2 seconds
+	(mod) CROSS shoot speed reduced to 0.15 seconds
+	(mod) PULSE charged shot shoots 4 pulses
+	(mod) Fixed POLY count in debug
+	(mod) Fixed TANK and RELATIVE not being able to go backwards
+	(mod) Fixed crashes in PVP
+	(rem) "ran" for settings.txt
+
+0_005B (2012/08/31):THE POLISHED UPDATE
+	(add) CROSS weapon
+	(add) Screen shake and showShake setting
+	(add) Dead things leave behind short-lived ghosts
+	(mod) Debug mode now required to toggle invincibility and comet spawn
+	(mod) Speed and rotation calculations changed slightly
+	(mod) Explosions fade away now so they don't cover the whole screen
+	(mod) blackAndWhite explosions start at full alpha so you can see them
+	(mod) Packaging reverted to when we had the /lib/ folder and run files
+	(mod) Fullscreen background fixed
+	(mod) default explosions changed to "fit" the player and comet colors
+	(mod) Prettier icons
+	(rem) Cursor trails
+	(rem) Explosion trails
+	(rem) Weapon lore and files
+
+0_004B (2012/05/11):THE META UPDATE
+	(add) Website (http://desukase.wordpress.com/fcs_shoot/)
+	(mod) Icons don't leave after fullscreening
+	(mod) Double-clicking the .jar to start game works on Vista
+	(mod) README content
+
+0_003B (2012/05/03):THE FIXED UPDATE
+	(add) Skin index/skin count to skin selection
+	(add) Current player/player count to player select in controls menu
+	(add) Control type/control types to control type select in controls menu
+	(add) Game mode descriptions in play menu
+	(mod) Moved weapon stats in play menu
+	
+0_002B (2012/04/30):THE REARRANGED UPDATE
+	(add) Class obfuscation
+	(add) Shortened weapon statistics during weapon select
+	(add) Numbers in the play menu to indicate how many possible game modes and weapons are available
+	(mod) Realistic plans
+	(mod) Weapon descriptions/lore moved to Lore menu option
+	(mod) Premise menu option renamed to Lore
+	(mod) Play menu rearranged for weapon descriptions
+	(mod) Weapon select cycle rearranged to make sense
+	(mod) Turret charge goes out faster
+	(mod) bat replaced by executable jar
+	(rem) Weapons main menu option
+	(rem) weaponsx files
+	(rem) lib folder
+	
+0_001B (2012/04/25):THE BETA UPDATE
+	(add) Actual icons
+	(add) More tips
+	(mod) Directions now properly wrapped
+	(mod) Instructions are sort of useful now
+	(mod) Renamed to FCS_SHOOT
+	(mod) Moved stuff around
+	(mod) Renamed all the class files
+	(mod) Charged PULSE lasers have limited range
+	(mod) GLOB charge drains faster
+	(rem) Version stamp on bottom left
+
+0_014A (2012/04/20):THE WEAPONRY UPDATE
+	(add) Game speed bar in options
+	(add) Charged weapon states
+	(add) Charge counter in bottom-right
+	(add) Custom game cursor, color, and trail
+	(add) PULSE weapon
+	(add) BURST weapon
+	(add) Secondary fire button (action2)
+	(add) Display options (debug view, fullscreen, show trails, show custom cursor)
+	(add) Ability to change skins in game
+	(add) Changing controls changes controls of current players in game
+	(add) Volume + and - buttons
+	(mod) Text shadow, button, and bar background colors now consistent
+	(mod) Moved difficulty counter to bottom-right
+	(mod) SPREAD weapon lasers per shot reduced to 4
+	(mod) Key action changed to action1
+	(mod) Trails add polygons differently
+	(mod) Changed score screen text locations
+	(mod) No more crashes from killing player0 in PVP
+	(mod) Moved difficulty counter
+	(mod) Super reorganized how player objects are structured
+
+0_013A (2012/04/13):THE OPTIONS UPDATE
+	(add) SIMPLE game mode (only simple comets that spawn quickly)
+	(add) PVP game mode (player versus player)
+	(add) quickYesKey and quickNoKey for score screen in controls.txt
+	(add) Actual options in option menu (Volume, Controls)
+	(add) Menu in paused state
+	(add) Control changing in options
+	(add) All data saves on exit
+	(add) RELATIVE control scheme (movement relative to mouse)
+	(add) Weapon, player count, and game mode same through each play
+	(mod) Start in main menu changed to Play
+	(mod) Starting a game handled differently
+	(mod) Scores calculated differently
+	(mod) Comet sizes changed slightly
+	(mod) Game states handled slightly differently
+	(mod) Text positions changed slightly
+	(mod) Invincibility back after a spelling error
+	(mod) Hunter comets have 15% chance to appear
+	(mod) Fast hunter comets called Seekers
+	(mod) Seeker comets have 10% chance to appear
+	(mod) Seeker comets start appearing on difficulty 5
+	(rem) Date in version numbers
+	(rem) Command prompt on startup
+
+0_012A (2012/03/27):THE BASIC UPDATE
+	(add) Options button that does nothing
+	(add) Debugview includes direction
+	(add) More COMET types
+	(add) Editable trails on players, lasers and comets
+	(add) Toggle for trails for performance (F6)
+	(add) Game controls (debugview, pause, etc.) thrown on controls.txt
+	(add) Some more tips regarding new comets
+	(add) Master volume saves on exit
+	(add) Names to updates
+	(mod) Framework for saving options set up
+	(mod) Game will not start paused
+	(mod) Rendered hitboxes more transparent
+	(mod) Help content includes all player controls
+	(mod) Multiple players spawn slightly apart from each other
+	(mod) Hitbox collision probably fixed
+	(mod) WAVE renamed to SPREAD
+	(mod) SPREAD even more inaccurate
+	(mod) SPREAD shoots once per 0.55 seconds
+	(rem) SWORD
+	(rem) Natives folder
+
+0_011A (2012/03/15):
+	(add) Keyboard+Mouse control scheme
+	(add) Multiplayer on same computer
+	(add) Editable controls in controls.txt
+	(add) 41 tips
+	(add) Tips in score screen from \res\txt\tips.txt
+	(add) SWORD weapon
+	(mod) WAVE lasers per shot reduced to 8
+	(mod) DISCHARGE lasers per shot increased to 36
+	(mod) Difficulty counter does not show up on score screen
+	(mod) Debug title shows Mouse position relative to top left corner
+	(mod) Spray shoots one per 0.75 seconds
+	(mod) Hitbox collision fixed
+	(mod) Hitboxes now cover the entire polygon, not just a box
+	(mod) Hitboxes now turn with objects
+	(mod) Alpha in hitboxes lowered
+	(rem) Total comets removed from score calculation
+
+0_010A (2012/03/08):
+	(add) In-game volume control (0, - and = keys)
+	(add) F5 to toggle text display
+	(add) Glob, Wave and Turret weapons have been added
+	(add) Weapon info text screens
+	(add) F4 to toggle frame cap
+	(add) Foregrounds
+	(add) Laser overlays and glows
+	(add) Laser and laser part colors to skins
+	(mod) Old Turret renamed to Spray
+	(mod) Dark skin changed
+	(mod) Default frame cap set to 80
+	(mod) Instructions changed to Help
+	(mod) ALL controls available in help
+	(mod) Menus have been completely redone
+	(mod) Text-only screens now have pages
+	(mod) Score screen menu now horizontal
+	(mod) Help and Premise content
+	(mod) Arrow toggle removed.
+	(mod) Changelog separated from README
+	(rem) Frame cap removal from debugview
+
+0_009A (2012/02/26):
+	(add) Pauses when window is not selected
+	(add) Game speed modifier in settings file
+	(add) Ability to change colors and other attributes in skin files
+	(add) Multiple colors for stars and explosions
+	(add) 7 skins
+	(add) Sounds for pressing buttons
+	(mod) Polygons are moved proportionally on fullscreen toggle
+	(mod) Lasers and particles no longer "wrap" like players/comets
+	(mod) Hitboxes update faster (still borked, though)
+	(mod) Credits include cheesy thanks to players
+	(mod) Menus are now arrays of buttons instead of weird crap
+	(mod) Instructions include ALL commands now
+	(rem) Hard coded random colors for stars, explosions
+	(rem) "tru" in settings files
+	(rem) Initializing text at startup
+
+0_008A (2012/02/15):
+	(add) Settings file
+	(add) Master volume
+	(add) Modifiable colors
+	(mod) Performance improved
+	(mod) Polygons with alpha 0 will not be rendered
+
+0_007A (2012/02/12):
+	(add) Loading status in console
+	(add) Preloaded text screens
+	(mod) Laser sounds initialized at beginning
+	(mod) Fullscreen toggles on one press of F10
+	(mod) Version naming
+	(rem) Glob weapon
+	(rem) Some goals
+
+0_006A (2012/01/29):
+	(add) Sound effects in res\sfx
+	(add) More menu options
+	(add) Poorly implemented fullscreen toggle
+	(add) Enter/Backspace do stuff in some menus
+	(mod) Turret shoots two lasers at a time
+	(mod) Discharge "easier" to attack with
+	(mod) Glob is bigger
+	(mod) res\font renamed to res\fnt
+	(rem) Player 2 menu option
+
+0_005A (2012/01/20):
+	(add) Weapon Discharge
+	(add) Weapon Glob
+	(add) Menu screens
+	(add) Difficulty counter
+	(add) Preloaded text
+	(mod) Turret has slight spray
+	(mod) Player 1 is orange
+	(rem) Player 2
+	(rem) Printing to console
+
+0_004A (2012/01/13):
+	(add) Shooting lasers
+	(add) Polygon count to title debug
+	(mod) Restructured game entities
+	(mod) Arrows' shape based on derivative polygon
+
+0_003A (2012/01/08):
+	(add) Changelog
+	(add) Pausing
+	(add) Data and text reader
+	(add) In-game version stamp
+	(mod) Readme
+	(rem) Time in score system
+	
+0_002A (2011/12/21):
+	(add) Arrows
+
+0_001A (2011/12/19):
+	First playable version
